@@ -1,0 +1,6 @@
+- 👋 Hi, My name is Duc Minh La, a honour year software engineering student in Deakin University (Melbourne, Australia). I am also, at the moment, a researcher in A2I2 (an AI institute in Deakin).
+- 👀 I’m interested in AI and ML and IoT as well as software development in general. On my github, you will see a variety of works from my work at A2I2 with UR5e robot, my personal project to just simple learning work.
+- 🌱 I’m currently doing a lot of different work and just basically explore the world of IT. For me, there are no limits except the limits in myself and as a software engineer tobe, it is my responsibility to be updated.
+- 💞️ I’m looking to collaborate on just everything, shoot me a DM if you wanna know more about me and my work! 
+- 📫 You can reache me via my [LinkedIn](https://www.linkedin.com/in/bobla-ldm/) or my email: dminh.bob.la@gmail.com
+- ✨ You also can see my porfolio website [here](https://ldm-bobla.netlify.app/) to view my resume!
