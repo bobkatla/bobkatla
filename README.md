@@ -3,4 +3,4 @@
 - 🌱 I’m currently doing a lot of different work and just basically explore the world of IT. For me, there are no limits except the limits in myself and as a software engineer and a researchers, it is my responsibility to constantly learn.
 - 💞️ I’m looking to collaborate on just everything, shoot me a DM if you wanna know more about me and my work! 
 - 📫 You can reache me via my [LinkedIn](https://www.linkedin.com/in/bobla-ldm/) or my email: dminh.bob.la@gmail.com
-- ✨ You also can see my porfolio website [here](https://ldm-bobla.netlify.app/) to view my resume!
+- ✨ You also can see my porfolio website [here](https://ldm-bobla.netlify.app/) to view my resume! (This will need to be updated in the future, please ignore for now)
